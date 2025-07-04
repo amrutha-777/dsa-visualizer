@@ -43,9 +43,9 @@ Building an interactive web app to visualize core data structures and algorithms
 ## 📦 Installation
 
 1. **Clone the repository**
-   bash
+   ``` bash
    git clone https://github.com/amrutha-777/dsa-visualizer.git
-   cd dsa-visualizer
+   cd dsa-visualizer ```
 
 
 2. **Install dependencies**
