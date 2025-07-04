@@ -108,6 +108,8 @@ src/
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Color-Coded Feedback**: Intuitive color scheme for different algorithm states
 - **Real-time Statistics**: Live updates of algorithm performance metrics
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/3a9b21f4-fd24-4507-a9bb-a48dab3723f7" />
+<img width="858" alt="image" src="https://github.com/user-attachments/assets/7233d0db-a174-4f36-99dd-9250864341bd" />
 
 ## 🔧 Available Scripts
 
